@@ -6,8 +6,8 @@ An app to learn languages made w/ android studio
 
 
 
+https://user-images.githubusercontent.com/32524670/163693479-24b8ccda-d8e8-40d8-b99b-c35dc8192465.mp4
 
-https://user-images.githubusercontent.com/32524670/163692911-7437f2dc-6dd8-402c-8808-2a01a2919e3e.mp4
 
 
 # Demo:
